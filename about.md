@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
+PHP研发
 
-Some information about you!
+### 联系我
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[supliyue@163.com](mailto:supliyue@163.com)
