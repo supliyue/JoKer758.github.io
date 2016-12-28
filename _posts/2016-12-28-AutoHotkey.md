@@ -2,6 +2,7 @@
 layout : post
 title: AutoHotkey配置
 ---
+
     F3::
     send #^{left}
     return
