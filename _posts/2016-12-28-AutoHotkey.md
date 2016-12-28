@@ -1,6 +1,6 @@
 ---
 layout : post
-title: Sublime使用
+title: AutoHotkey配置
 ---
   F3::
   send #^{left}
